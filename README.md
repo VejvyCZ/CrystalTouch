@@ -35,6 +35,6 @@ jejich složení a samotný návrh pouzdra/krytu/rámečku na omítku do podoby,
 
 
 
-
+Berte na vědomí, že výrobní soubory poskytuji zdarma a nelze očekávat pěkné na 100% perfektní rozvržení součástek a spojů.
 
 17.11. 2026
