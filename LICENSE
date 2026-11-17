@@ -1,0 +1,18 @@
+LICENSE AND TERMS OF USE (November 17, 2026)
+
+Project: CrystalTouch – Glass Touch Switch / Dimmer
+Author: jvelektronika.cz (VejvyCZ)
+Official Website: https://jvelektronika.cz
+
+All hardware manufacturing files provided in this repository (including the Gerber files ZIP archive for PCB fabrication and the component placement diagram / assembly image) are licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0).
+
+To view a copy of this license, visit:
+https://creativecommons.org
+
+Summary of Terms:
+- Attribution (BY): You must give appropriate credit to the author (jvelektronika.cz), provide a link to the license, and link back to the original project page.
+- NonCommercial (NC): You may NOT use the material, fabricated PCBs, or assembled devices for commercial purposes, resale, or any financial gain.
+- NoDerivatives (ND): You may NOT modify, remix, transform, or build upon these manufacturing files or placement diagrams, nor distribute modified versions.
+- Personal Use: You are free to download the Gerber files and order PCBs (e.g., via JLCPCB) strictly for your own personal, educational, and non-commercial use.
+
+Disclaimer: This hardware design is intended for extra-low voltage applications up to 24V (AC/DC). All fabrication, assembly, and installation are performed strictly at your own risk. The author assumes no liability for any damage, injury, or loss resulting from the use of these files.
